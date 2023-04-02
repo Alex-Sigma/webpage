@@ -20,9 +20,9 @@ interests:
 - Information Retrieval
 last_name: Astakhova
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Asklepios Klinik Langen
+  url: https://www.asklepios.com/langen/
+role: Ausbildung zur Psychotherapeutin
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,12 +38,12 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/anna-astakhova-020075228/
 superuser: true
 title: Anna Astakhova
 ---
 
-Anna Astakhova is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Psychologin in der Ausbildung zur Psychotherapeutin. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
