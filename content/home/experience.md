@@ -21,29 +21,72 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Psychologische Beratung 
+    company: Drk Kreisverband Darmstadt-stadt · Freiberuflich
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Darmstadt 
+    date_start: '2023-01-01'
     date_end: ''
+    description: Durchführung von Resilienztraining und Stressbewältigung bei geflüchteten ukrainischen Frauen
+
+  - title: Psychologin 
+    company: Asklepios Klinik Langen
+    company_url: ''
+    company_logo: org-gc
+    location: Langen
+    date_start: '2022-09-01'
+    date_end: ''
+    description: Ausbildung zur Psychotherapeutin 
+
+  - title: Psychologische Beraterin
+    company: Koordinationsstelle Miteinander
+    company_url: ''
+    company_logo: org-gc
+    location: Langen
+    date_start: '2022-05-01'
+    date_end: '2022-09-01'
+    description: Durchführung der progressiven Muskelentspannung nach Jacobson bei geflüchteten ukrainischen Frauen
+
+  - title: Referentin
+    company: AStA
+    company_url: ''
+    company_logo: org-gc
+    location: Darmstadt
+    date_start: '2021-01-01'
+    date_end: '2022-09-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Interessenvertretung der Studierenden
+        * Beteiligung an hochschulpolitischen Entscheidungen
+        * Unterstützung bei finanziellen und rechtlichen Problemen
+        * Organisation von kulturellen Ereignissen und Events
+        * Bereitstellung von aktuellen Informationen rund um Studium und Hochschule
+        * Beratung zum Studieren mit Behinderung sowie zu Gleichstellungsfragen
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Tutorin
+    company: Studierendenwerk TU Darmstadt
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Darmstadt
+    date_start: '2018-11-01'
+    date_end: '2022-09-01'
+    description: |2-
+      Responsibilities include:
+      
+        * Exkursionen
+        * Firmenbesichtigungen
+        * Kulturelle Events
+        * Workshops
+        * Freizeitaktivitäten
+
+        
+
+      
+      
 
 design:
   columns: '2'

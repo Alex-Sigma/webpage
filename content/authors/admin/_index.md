@@ -1,6 +1,6 @@
 ---
 bio: Psychologin in der Ausbildung zur Psychotherapeutin
-education:
+education: 
   courses:
   - course: Master of Science -MS, Psychologie
     institution: Technische Universität Darmstadt
