@@ -8,16 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: Erfahrung
-    url: '#posts'
+    url: '#experience'
     weight: 20
   - name: Angebot
-    url: '#projects'
+    url: '#skills'
     weight: 30
   - name: Preise
-    url: '#talks'
+    url: '#accomplishments'
     weight: 40
   - name: Blog
-    url: '#featured'
+    url: '#posts'
     weight: 50
   - name: Kontakt
     url: '#contact'
