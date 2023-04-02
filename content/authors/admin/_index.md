@@ -1,17 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Psychologin in der Ausbildung zur Psychotherapeutin
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Science -MS, Psychologie
+    institution: Technische Universität Darmstadt
+    year: 2022
+  - course: Bachelor of Science -BS, Psychologie
+    institution: Technische Universität Darmstadt
+    year: 2021
+  - course: Fachhochshulreife, Geisteswissenschaften
+    institution: Studienkolleg TU Darmstadt
+    year: 2017
 email: ""
 first_name: Anna
 highlight_name: true
