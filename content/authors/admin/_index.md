@@ -43,8 +43,10 @@ superuser: true
 title: Anna Astakhova
 ---
 
-Psychologin in der Ausbildung zur Psychotherapeutin. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Anna Astakhova -  Psychotherapeutin in der Ausbildung, Internationale Psychologin, Expertin für erfolgreiche Integration, Aufbau internationaler Kontakte und interkulturelle Zusammenarbeit!
+
+Seit 2014 lebe und arbeite ich in Deutschland. Nach erfolgreichem Abschluss der Integrationskurse im Jahr 2015 trat ich in das Studienkolleg der Technischen Universität Darmstadt ein und interessierte mich bereits damals für das Thema gelungene Integration! Daher habe ich beschlossen, dass ich Psychologie studieren muss, um dieses Thema im Detail zu verstehen und anderen zu helfen, sich in jedem Land ohne Tränen und Reue sicher zu fühlen, Freunde ohne Probleme zu finden, ohne Angst zu Vorstellungsgesprächen zu gehen und in einem internationalen Kollegenkreis zu arbeiten
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
