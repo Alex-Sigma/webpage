@@ -26,7 +26,7 @@ experience:
   - title: Psychologische Beratung 
     company: Drk Kreisverband Darmstadt-stadt · Freiberuflich
     company_url: ''
-    company_logo: org-gc
+    company_logo: drk
     location: Darmstadt 
     date_start: '2023-01-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Psychologin 
     company: Asklepios Klinik Langen
     company_url: ''
-    company_logo: org-gc
+    company_logo: askl
     location: Langen
     date_start: '2022-09-01'
     date_end: ''
@@ -44,7 +44,7 @@ experience:
   - title: Psychologische Beraterin
     company: Koordinationsstelle Miteinander
     company_url: ''
-    company_logo: org-gc
+    company_logo: mit
     location: Langen
     date_start: '2022-05-01'
     date_end: '2022-09-01'
@@ -53,7 +53,7 @@ experience:
   - title: Referentin
     company: AStA
     company_url: ''
-    company_logo: org-gc
+    company_logo: tu
     location: Darmstadt
     date_start: '2021-01-01'
     date_end: '2022-09-01'
@@ -70,7 +70,7 @@ experience:
   - title: Tutorin
     company: Studierendenwerk TU Darmstadt
     company_url: ''
-    company_logo: org-x
+    company_logo: tu
     location: Darmstadt
     date_start: '2018-11-01'
     date_end: '2022-09-01'
