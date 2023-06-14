@@ -1,6 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: accomplishments
 
 # This file represents a page section.
@@ -26,10 +27,10 @@ item:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
-    description: ''
+    description: 'Die Therapie befindet sich in Gruppen ab 5 Personen'
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Gruppen Therapie 
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
